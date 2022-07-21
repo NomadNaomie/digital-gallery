@@ -1,0 +1,15 @@
+.card-img-top{
+    width:40%;
+    object-fit:cover;
+    display:block;
+    margin: 10px auto;
+}
+form{
+    width:50%;
+    margin:15px auto;
+    color:white;
+}
+
+button{
+    margin-top:10px;
+}

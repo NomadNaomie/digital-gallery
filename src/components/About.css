@@ -1,0 +1,21 @@
+#about-container{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.about-text{
+    /* make 2 columns wide  */
+    grid-column: span 2; 
+    color:white;
+}
+#about-container img{
+    display:block;
+    margin: 0 auto;
+}
+.about-text{
+    margin: 40px 40px;
+}
+.about-text h3{
+    width:75%;
+    font-size:3em;
+    font-weight:bold;
+}

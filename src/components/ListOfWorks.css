@@ -1,0 +1,32 @@
+.card-img-top{
+    width:40%;
+    object-fit:cover;
+    display:block;
+    margin: 10px auto;
+}
+#works-container{
+    width:50%;
+    margin:0 auto;
+}
+form{
+    width:50%;
+    margin:15px auto;
+    color:white;
+}
+label{
+    color:white;
+    margin-right:5px;
+}
+.filter-drop
+{
+    display:block;
+}
+.hidden{
+    display: none !important;
+}
+select{
+    margin-bottom:20px;
+}
+.card{
+    min-height: 400px;
+}

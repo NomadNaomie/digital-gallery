@@ -1,0 +1,31 @@
+.navbar-brand span{
+    color: white;
+    font-size:1em;
+    text-align: center;
+    animation: glitch 1s infinite;
+       text-shadow: 0.02em 0.06em lightgreen, -0.03em -0.04em 0 yellowgreen, 0.02em -0.02em 0 green;
+  }
+  img{
+  }
+  .nav{
+    background-color: var(--primary);
+  }
+  .nav-link{
+    color:var(--secondary);
+  }
+  .nav-link.dropdown-toggle[aria-expanded="true"]{
+    color:black !important;
+    }
+  .nav-link:hover{
+    color:var(--light) !important;
+  }
+
+  .nav-link.active{
+    color:black !important;
+  }
+  .dropdown.active{
+    background-color: white !important;
+  }
+  .dropdown.active a{
+    color:black !important;
+  }

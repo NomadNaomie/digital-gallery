@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8029c90c.css",
+    "main.js": "/static/js/main.de05a5fa.js",
+    "static/js/787.ad5116d9.chunk.js": "/static/js/787.ad5116d9.chunk.js",
+    "static/media/pastelHorror.jpg": "/static/media/pastelHorror.0fda0e2efd03c9a9b959.jpg",
+    "static/media/chibiTrump.jpg": "/static/media/chibiTrump.c1c46bd4548f638b65d2.jpg",
+    "static/media/lofiNuclear.jpg": "/static/media/lofiNuclear.bf52e8e368264d54ac36.jpg",
+    "index.html": "/index.html",
+    "main.8029c90c.css.map": "/static/css/main.8029c90c.css.map",
+    "main.de05a5fa.js.map": "/static/js/main.de05a5fa.js.map",
+    "787.ad5116d9.chunk.js.map": "/static/js/787.ad5116d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8029c90c.css",
+    "static/js/main.de05a5fa.js"
+  ]
+}
